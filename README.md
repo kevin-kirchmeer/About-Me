@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Kev
+# 👋 Hi, I’m Kev, nice to meet u!
 
 ## 🧭 About Me
 - 🌱 I’m currently learning the basics of **HTML**, **CSS**, and **JavaScript** – step by step.
@@ -33,7 +33,7 @@
 
 ## 📫 How to Reach Me
 - ✉️ Email: `Kevin-Kirchmeer@gmx.de`
-- 🐙 GitHub: [@IT-Bug](https://github.com/IT-Bug)
+- 🐙 GitHub: [@kevin-kirchmeer](https://github.com/IT-Bug)
 
 ---
 
