@@ -25,17 +25,17 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IT-Bug&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kevin-kirchmeer&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IT-Bug&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kevin-kirchmeer&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 📫 How to Reach Me
 - ✉️ Email: `Kevin-Kirchmeer@gmx.de`
-- 🐙 GitHub: [@kevin-kirchmeer](https://github.com/IT-Bug)
+- 🐙 GitHub: [@kevin-kirchmeer](https://github.com/kevin-kirchmeer)
 
 ---
 
 ## 👁️ Visitors
-![Profile Views](https://komarev.com/ghpvc/?username=IT-Bug&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=kevin-kirchmeer&label=Profile%20views&color=0e75b6&style=flat)
